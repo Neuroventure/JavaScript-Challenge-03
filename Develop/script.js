@@ -29,12 +29,12 @@ var possibleCharacters = [];
    alert("Your password will NOT have lowercase letters.");
  }
 
- hasUppercase = confirm("Do you want uppercase characters?");
+ hasUppercase = confirm("Do you want uppercase letters?");
  if (hasUppercase) {
-   alert("Your password will have uppercase characters.");
+   alert("Your password will have uppercase letters.");
  }
  else {
-   alert("Your password will NOT have uppercase characters.");
+   alert("Your password will NOT have uppercase letters.");
  }
 
  hasNumbers = confirm("Do you want to use numbers?");
@@ -84,7 +84,7 @@ var possibleCharacters = [];
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+// Writes password to the #password input
 function writePassword() {
  var password = generatePassword();
  var passwordText = document.querySelector("#password");
