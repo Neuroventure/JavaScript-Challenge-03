@@ -1,7 +1,7 @@
 # 03 JavaScript: Password Generator
 
 ##  Project Description
-The password generator page features a text box that generates a password after selecting th ecriteria you want for your password. It will ask with a window prompt how many characters between 8-128, if you want uppercase letters, lowercase letters, numbers and special characters. It will then pull all of the character criteria together and create a random password based off of the users choices. The page is white background with a text square and "Generate Password" Button. 
+The password generator page features a text box that generates a password after selecting the criteria you want for your password. It will ask with a window prompt how many characters between 8-128, if you want uppercase letters, lowercase letters, numbers and special characters. It will then pull all of the character criteria together and create a random password based off of the users choices. The page is white background with a text square and "Generate Password" Button. 
 
 ### Contents
 
