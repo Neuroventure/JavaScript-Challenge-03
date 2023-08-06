@@ -6,23 +6,17 @@ The password generator page features a text box that generates a password after 
 ### Contents
 
 1. [Deployed Page](#deployed-page)
-2. [Contributions](#contributions)
-3. [Reference](#reference)
+2. [Reference](#reference)
 
 ### Deployed Page
 [Deployed Website via Github Pages](https://neuroventure.github.io/JavaScript-Challenge-03/)
 
-![Deployed page Screenshot]()
+![Deployed page Screenshot](neuroventure.github.io_JavaScript-Challenge-03_.png)
 
-
-
-### Contributions
-
-* Website was designed by Sean Keller
 
 ### Reference
 
-I used the following resources to help complete my portfolio.
+I used the following resources to help complete this assignment.
 + [MDN Web Docs](https://developer.mozilla.org/en-US/)
 + [W3 Schools](https://www.w3schools.com/)
 + [Chat GPT](https://chat.openai.com/)
