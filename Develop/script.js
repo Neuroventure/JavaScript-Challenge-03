@@ -42,7 +42,11 @@ return "The value you have entered is invalid";
 
 }
 
+if (charCount < 8 || charCount >128) {
 
+  alert("Please enter a password within range of 8-128 characters.")
+  
+}
 
 
 
